@@ -1,4 +1,4 @@
-# Poetic Error Handler 🌹
+# Poetic Error Handler 📝
 Transform your Python error messages into delightful poems! This lightweight error handler converts standard Python errors into poetic form while preserving the original error information.
 
 ## Installation
