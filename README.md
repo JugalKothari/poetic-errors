@@ -49,7 +49,7 @@ To contribute or modify the package:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/poetic-errors.git
+git clone https://github.com/JugalKothari/poetic-errors.git
 ```
 
 2. Install in development mode:

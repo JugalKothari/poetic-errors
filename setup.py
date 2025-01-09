@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="poetic_errors",
-    version="0.1.2",
+    version="0.1.3",
     author="Jugal Kothari",
     author_email="jugalprakashk19@gmail.com",
     description="Transform Python errors into delightful poems",
